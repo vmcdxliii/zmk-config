@@ -34,8 +34,8 @@
 
         first {
             bindings = <
-&kp GRAVE  &kp Q           &kp W           &kp E               &kp R             &mt INSERT T        &kp Y           &kp U             &kp I               &kp O           &kp P                   &kp BACKSPACE
-&kp MINUS  &mt LEFT_WIN A  &mt LEFT_ALT S  &mt LEFT_CONTROL D  &mt LEFT_SHIFT F  &kp G        &mt INSERT H           &mt LEFT_SHIFT J  &mt LEFT_CONTROL K  &mt LEFT_ALT L  &mt LEFT_WIN SEMICOLON  &kp SQT
+&kp GRAVE  &kp Q           &kp W           &kp E               &kp R             &kp T        &kp Y           &kp U             &kp I               &kp O           &kp P                   &kp BACKSPACE
+&kp MINUS  &mt LEFT_WIN A  &mt LEFT_ALT S  &mt LEFT_CONTROL D  &mt LEFT_SHIFT F  &mt INSERT G        &mt INSERT H           &mt LEFT_SHIFT J  &mt LEFT_CONTROL K  &mt LEFT_ALT L  &mt LEFT_WIN SEMICOLON  &kp SQT
 &kp EQUAL  &kp Z           &kp X           &kp C               &kp V             &kp B        &kp N           &kp M             &kp COMMA           &kp DOT         &kp SLASH               &kp BACKSLASH
                                            &kp ENTER           &mo 1             &kp SPACE    &kp LEFT_SHIFT  &kp LEFT_CONTROL  &kp LEFT_ALT
             >;
