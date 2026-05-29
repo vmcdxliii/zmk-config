@@ -7,6 +7,15 @@
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/keys.h>
 
+
+&mt {
+    hold-trigger-on-release;
+    flavor = "tap-preferred";
+    tapping-term-ms = <250>;
+};
+
+&lt { tapping-term-ms = <250>; };
+
 / {
     behaviors {
         new_behavior: new_behavior {
